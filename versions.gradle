@@ -1,0 +1,42 @@
+ext {
+    // Kotlin
+    kotlin_version = '1.4.10'
+    kotlin_reflect = '1.4.10'
+    koin_version = '1.0.2'
+
+    // Android Sdk and tools
+    androidGradlePlugin = '3.1.2'
+    buildToolsVersion = '27.0.3'
+    supportLibraryVersion = '1.2.0'
+    materialLibraryVersion = '1.2.1'
+    constraintLayout = '2.0.2'
+    androidArchitectureVersion = '2.2.0'
+    androidLegacy = '1.0.0'
+    androidLifecycleExtensions = '2.2.0'
+    androidLifecycleViewmodel = '2.2.0'
+    recyclerView = '1.1.0'
+
+    // Navigation
+    navigation = '2.3.1'
+
+    // Framework
+    okhttp_version = '3.8.1'
+    retrofit_version = '2.9.0'
+    rxjava_version = '2.2.10'
+    rxandroid_version = '2.1.1'
+    junit = '4.12'
+    gson = '2.8.6'
+    rxkotlin = '2.3.0'
+
+    //Timber
+    timber = '4.7.1'
+
+    // InstrumentalTesting
+    support_annotations = '27.0.0'
+
+    // Testing
+    core_testing = '2.1.0'
+    mockito_kotlin = '2.2.0'
+    mockito_inline = '2.23.0'
+    kluent = '1.61'
+}

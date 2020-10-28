@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidRecruitmentApp</string>
+    <string name="episodes">Episodes</string>
+    <string name="characters">Characters</string>
+    <string name="locations">Locations</string>
+    <string name="episode">Episode:\u0020</string>
+    <string name="character">Character:\u0020</string>
+    <string name="location">Location:\u0020</string>
+</resources>
