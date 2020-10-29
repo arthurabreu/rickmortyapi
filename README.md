@@ -11,11 +11,9 @@ You can find more about api which was used on: https://rickandmortyapi.com
 
 - MVVM
 - AndroidJetpack (androidX components: databinding, livedata, navigation)
-- Coroutines
 - RxJava
 - Retrofit/Gson
 - Koin
 - Timber
 - JUnit/Mockito
 
-## Good luck ; )
